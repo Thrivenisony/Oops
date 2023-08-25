@@ -1,0 +1,10 @@
+package com.ciq.inheritancedemo;
+
+public class A {
+	
+	
+	public void am() {
+		System.out.println("father--A properties");
+	}
+
+}
