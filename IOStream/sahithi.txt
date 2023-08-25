@@ -1,0 +1,4 @@
+true
+20.0
+hello java
+12
